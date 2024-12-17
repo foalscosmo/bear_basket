@@ -1,0 +1,19 @@
+Bear_Skin_Default3.png
+size:512,512
+filter:Linear,Linear
+pma:true
+Cart
+bounds:0,328,264,144
+Cart Back Part
+bounds:410,97,250,55
+rotate:90
+Handle 1
+bounds:0,0,236,121
+offsets:0,11,236,132
+Handle 2
+bounds:266,349,236,123
+offsets:0,9,236,132
+Wheel 1
+bounds:0,123,203,203
+Wheel 2
+bounds:205,123,203,203

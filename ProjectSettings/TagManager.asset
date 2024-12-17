@@ -1,0 +1,71 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Drink1
+  - Drink2
+  - Drink3
+  - Drink4
+  - Drink5
+  - Drink6
+  - DropZone
+  - Fruit1
+  - Fruit2
+  - Fruit3
+  - Fruit4
+  - Fruit5
+  - Fruit6
+  - Candy1
+  - Candy2
+  - Candy3
+  - Candy4
+  - Candy5
+  - Candy6
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Food
+    uniqueID: 1399168227
+    locked: 0
+  - name: Player
+    uniqueID: 353786173
+    locked: 0
+  - name: front
+    uniqueID: 374818151
+    locked: 0
